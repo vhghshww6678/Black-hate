@@ -1,4 +1,4 @@
-# Web Application Functionality Security Test Case and Vulnerability #
+# Web Application Functionality Security Test Cases and Vulnerability #
 Description
 
 Web Application Functionality Security Testing specifically focuses on ensuring that the application's functionalities are not vulnerable to security threats. While some overlap exists with general security testing, the emphasis here is on the functionality aspects. I personally prefer to start with the Black-Box and Grey-Box testing approach where I try to enumerate banner information, some basic or I can say network-level findings that can be found using any automated tool as well as manually such as.
